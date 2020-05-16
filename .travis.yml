@@ -7,10 +7,6 @@ before_install:
 
 script:
   - ./gradlew build --scan -s
-  - gradleEnterprise {
-    buildScan {
-    termsOfServiceUrl = 'https://gradle.com/terms-of-service'
-    termsOfServiceAgree = 'yes'
-    }
-    }
+  - ./gradlew clean publish -i --continue
+  - ./gradlew -b finalize.gradle finalize -i
 
