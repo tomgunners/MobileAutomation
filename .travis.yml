@@ -7,6 +7,4 @@ before_install:
 
 script:
   - ./gradlew build --scan -s
-  - ./gradlew clean publish -i --continue
-  - ./gradlew -b finalize.gradle finalize -i
 
