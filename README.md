@@ -38,12 +38,15 @@
   
   1- Utilizando o teminal execute o comando 
   
+```
   ./gradlew runFeatures 
+```
   
   2- Em seguida se desejar ver o relatório execute o comando
   
-  allure serve
-
+  ```
+    allure serve 
+  ```
   
 ## Technologies Used
  **JDK** ![version](https://img.shields.io/badge/version-1.8-green)
@@ -60,7 +63,7 @@
  
 ## Programming Language Used ![GitHub language count](https://img.shields.io/github/languages/count/tomgunners/MobileAutomation)
 **Java**
- 
+
 **Cucumber**
  
 **Gherkin**
