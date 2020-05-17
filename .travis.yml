@@ -2,11 +2,11 @@ language: java
 install: true
 jdk: oraclejdk8
 
+os: windows
+
 before_install:
   - chmod +x gradlew
 
 script:
   - ./gradlew build --scan -s
-  - ./gradlew runFeatures
-  - allure serve
 
