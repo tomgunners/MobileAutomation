@@ -7,4 +7,6 @@ before_install:
 
 script:
   - ./gradlew build --scan -s
+  - ./gradlew runFeatures
+  - allure serve
 

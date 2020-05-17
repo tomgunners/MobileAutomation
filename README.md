@@ -21,7 +21,7 @@
  
  ## Run
  
- 1- Execute o Programa Appium e de Star no servidor:
+ 1- Execute o Programa Appium e de **Start Server**:
  
  2- Crie e execute um emulado do android:
   * Abra o Android studio e crie um novo projeto.
