@@ -1,15 +1,15 @@
 # Projeto Automação Mobile [![Build Status](https://travis-ci.com/tomgunners/MobileAutomation.svg?branch=master)](https://travis-ci.com/tomgunners/MobileAutomation) ![GitHub All Releases](https://img.shields.io/github/downloads/tomgunners/MobileAutomation/total) ![GitHub repo size](https://img.shields.io/github/repo-size/tomgunners/MobileAutomation) ![GitHub](https://img.shields.io/github/license/tomgunners/MobileAutomation) ![GitHub commit merge status](https://img.shields.io/github/commit-status/tomgunners/MobileAutomation/master/b8f2a994f7e4eefd86cd5d48d8fc6e8d62aefb1a)
  
- ##About Me
+## About Me
  O Projeto tem como finalidade o cadastro de um usuário no aplicativo Muambator, 
  realizar interações com as abas existentes dentro do aplicativo, o cadastramento de um código de 
  rastreio e por fim a validação se o mesmo foi adicionado.
  
- ##Developed
+## Developed
   ![GitHub contributors](https://img.shields.io/github/contributors/tomgunners/MobileAutomation?color=green&label=Wellington%20de%20Oliveira%20Francisco)
   
  
- ##Installation
+## Installation
  IDE: [InteliJ](https://www.jetbrains.com/pt-br/idea/download/download-thanks.html?platform=windows&code=IIC)
  
  Appium: [Appium](https://github.com/appium/appium-desktop/releases/download/v1.15.1/Appium-windows-1.15.1.exe)
@@ -19,7 +19,7 @@
  JDK: [Java SE Development](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
  
  
- ## Run
+## Run
  
  1- Execute o Programa Appium e de Star no servidor:
  
@@ -34,7 +34,7 @@
   * Quando o Emulador for criado ele irá ficar disponível para ser iniciado.
   * Em Actions clique em Play para iniciar o emulador.
   
-  ## Linha de comando
+## Linha de comando
   
   1- Utilizando o teminal execute o comando 
   
@@ -45,7 +45,7 @@
   allure serve
 
   
- ##Technologies Used
+## Technologies Used
  **JDK** ![version](https://img.shields.io/badge/version-1.8-green)
  
  **Appium** ![version](https://img.shields.io/badge/version-7.3.0-green)
@@ -58,7 +58,7 @@
  
  **Junit** ![version](https://img.shields.io/badge/version-4.12-green)
  
- ##Programming Language Used ![GitHub language count](https://img.shields.io/github/languages/count/tomgunners/MobileAutomation)
+## Programming Language Used ![GitHub language count](https://img.shields.io/github/languages/count/tomgunners/MobileAutomation)
 **Java**
  
 **Cucumber**
