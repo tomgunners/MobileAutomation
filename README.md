@@ -1,6 +1,6 @@
 # Projeto Automação Mobile [![Build Status](https://travis-ci.com/tomgunners/MobileAutomation.svg?branch=master)](https://travis-ci.com/tomgunners/MobileAutomation) ![GitHub All Releases](https://img.shields.io/github/downloads/tomgunners/MobileAutomation/total) ![GitHub repo size](https://img.shields.io/github/repo-size/tomgunners/MobileAutomation) ![GitHub](https://img.shields.io/github/license/tomgunners/MobileAutomation) ![GitHub commit merge status](https://img.shields.io/github/commit-status/tomgunners/MobileAutomation/master/b8f2a994f7e4eefd86cd5d48d8fc6e8d62aefb1a)
  
-## About Me
+## About
  O Projeto tem como finalidade o cadastro de um usuário no aplicativo Muambator, 
  realizar interações com as abas existentes dentro do aplicativo, o cadastramento de um código de 
  rastreio e por fim a validação se o mesmo foi adicionado.
